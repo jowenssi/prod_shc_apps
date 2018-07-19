@@ -1,0 +1,3 @@
+[submodule "AIG_shc_test_app"]
+	path = AIG_shc_test_app
+	url = https://github.com/jowenssi/AIG_shc_test_app.git
